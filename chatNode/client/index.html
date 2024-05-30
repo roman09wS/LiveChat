@@ -261,7 +261,7 @@
         socket.on('message sent', (msg) => {
             let div = document.createElement('div')
             
-            div.classList.add('message','incoming')
+            div.classList.add('message')
             div.textContent = msg
             chat.append(div)
         })
