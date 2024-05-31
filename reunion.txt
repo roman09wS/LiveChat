@@ -1,0 +1,10 @@
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTMzNmJlZDctMDBjMi00NzdlLTliM2YtNTg4MWFjZDhhZjFk%40thread.v2/0?context=%7b%22Tid%22%3a%22f111cf20-add7-4a2c-b282-c1262ff00a4a%22%2c%22Oid%22%3a%22b5a5c084-eb4c-4661-b954-35db924dd6fd%22%7d
+
+[10:12] Oscar Eduardo Vargas Llano
+Servidor: 10.150.205.207
+
+Base de Datos: DBChatColaborativo
+
+Usuario: usrChatColaborativo
+
+Clave: usrChatColaborativoSena
